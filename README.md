@@ -32,7 +32,13 @@ I am currently pursuing the Ph.D. degree with the **School of Astronautics** at
 **Northwestern Polytechnical University**, China.
 
 My current research interests include **planning and control for space robotic systems**.
+<p align="center">
+  <img src="SR.jpg" alt="Space robotics illustration" width="85%">
+</p>
 
+<p align="center">
+  <sub>Image from [https://www.vcg.com/creative/1485263136.html].</sub>
+</p>
 ---
 ## 📫 Contact Me
 
@@ -62,13 +68,7 @@ My current research interests include **planning and control for space robotic s
 
 
 
-<p align="center">
-  <img src="SR.jpg" alt="Space robotics illustration" width="85%">
-</p>
 
-<p align="center">
-  <sub>Image from [https://www.vcg.com/creative/1485263136.html].</sub>
-</p>
 
 
 
