@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 
 | Degree | Major | University | Period |
 |---|---|---|---|
-| 🧑‍🎓 **B.S.** | Aircraft Control and Information Engineering | NPU, China | 2021 |
+| 🧑‍🎓 **B.S.** | Aircraft Control and Information Engineering | NWPU, China | 2021 |
 | 🧑‍🔧 **M.S.** | Mechanical Engineering | NUAA, China | 2025 |
-| 🧑‍🚀 **Ph.D.** | Control Science and Engineering | NPU, China | 2025 - Present |
+| 🧑‍🚀 **Ph.D.** | Control Science and Engineering | NWPU, China | 2025 - Present |
 
 
 
