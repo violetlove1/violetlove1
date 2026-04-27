@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <sub>Image from [https://www.vcg.com/creative/1485263136.html].</sub>
+  <sub>Favorite Image from [https://www.vcg.com/creative/1485263136.html].</sub>
 </p>
 
 
