@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # Hi there, I'm Le Zhang 👋
 
-🎓 Ph.D. Student in NWPU 
+🎓 Ph.D. Student in NWPU
 🚀 Space | Robot |  Control   
 📍 Northwestern Polytechnical University, China  
 
