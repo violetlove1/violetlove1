@@ -34,6 +34,10 @@ I am currently pursuing the Ph.D. degree with the **School of Astronautics** at
 My current research interests include **planning and control for space robotic systems**.
 
 ---
+## 📫 Contact
+
+- 📧 Email: 1973573467@qq.com
+- 🎓 Academic Email: zhang.le@mail.nwpu.edu.cn
 
 ## 🔬 Research Interests
 
