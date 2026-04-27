@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 # Hi there, I'm Le Zhang 👋
 
 🎓 Ph.D. Student in Astronautics  
-🚀 Space Robotics | Intelligent Robot | Motion Planning | Control Systems  
+🚀 Space | Robot |  Control   
 📍 Northwestern Polytechnical University, China  
 
 ---
