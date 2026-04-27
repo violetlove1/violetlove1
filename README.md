@@ -19,9 +19,6 @@ Here are some ideas to get you started:
 - 🎓 **Ph.D. Student** in Control Science and Engineering
 - 🚀 **Research:** Space Robotics · Motion Planning · Control
 - 📍 **Affiliation:** Research Center for Intelligent Robotics, NWPU, China
-
-
-
 ---
 
 ## 🌱 Education
@@ -31,7 +28,7 @@ Here are some ideas to get you started:
 | 🧑‍🎓 **B.S.** | Aircraft Control and Information Engineering | Northwestern Polytechnical University, China | 2021 |
 | 🧑‍🔧 **M.S.** | Mechanical Engineering | Nanjing University of Aeronautics and Astronautics, China | 2025 |
 | 🧑‍🚀 **Ph.D.** | Control Science and Engineering | Northwestern Polytechnical University, China | 2025 - Present |
----
+
 
 
 
