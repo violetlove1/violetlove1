@@ -50,4 +50,4 @@ My current research interests include **planning and control for space robotic s
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ![Le's GitHub stats](https://github-readme-stats.vercel.app/api?username=violetlove1&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=violetlove1&layout=compact)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=violetlove1&layout=compact)-->
