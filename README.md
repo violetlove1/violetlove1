@@ -36,15 +36,16 @@ Here are some ideas to get you started:
 ## 🔬 Research Interests
 
 ![Space Robotics](https://img.shields.io/badge/Space%20Robotics-0B3D91?style=flat-square&logo=spacex&logoColor=white)
+![Dynamics](https://img.shields.io/badge/Dynamics-DC2626?style=flat-square&logo=wolfram&logoColor=white)
 ![Intelligent Robot](https://img.shields.io/badge/Intelligent%20Robot-7C3AED?style=flat-square&logo=tensorflow&logoColor=white)
 ![Motion Planning](https://img.shields.io/badge/Motion%20Planning-2563EB?style=flat-square&logo=openstreetmap&logoColor=white)
 ![OptimaL Control](https://img.shields.io/badge/Optimal%20Control-16A34A?style=flat-square&logo=proteus&logoColor=white)
 
 ## 🛠️ Research Skills
 
-![Dynamics](https://img.shields.io/badge/Dynamics-DC2626?style=flat-square&logo=wolfram&logoColor=white)
 ![ROS 2](https://img.shields.io/badge/ROS%202-22314E?style=flat-square&logo=ros&logoColor=white)
 ![MuJoCo](https://img.shields.io/badge/MuJoCo-FF6F00?style=flat-square&logo=google&logoColor=white)
+![Isaac Sim](https://img.shields.io/badge/Isaac%20Sim-76B900?style=flat-square&logo=nvidia&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=octave&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -52,7 +53,7 @@ Here are some ideas to get you started:
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-DA291C?style=flat-square&logo=dassaultsystemes&logoColor=white)
 ![URDF](https://img.shields.io/badge/URDF-64748B?style=flat-square&logo=xml&logoColor=white)
 ![MJCF](https://img.shields.io/badge/MJCF-MuJoCo%20XML-7C3AED?style=flat-square&logo=xml&logoColor=white)
-![Isaac Sim](https://img.shields.io/badge/Isaac%20Sim-76B900?style=flat-square&logo=nvidia&logoColor=white)
+
 
 
 <p align="center">
