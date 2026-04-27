@@ -49,4 +49,4 @@ My current research interests include **planning and control for space robotic s
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-[![Le Zhang's GitHub stats](https://github-readme-stats.vercel.app/api?username=violetlove1)](https://github.com/anuraghazra/github-readme-stats)
+![Le's GitHub stats](https://github-readme-stats.vercel.app/api?username=violetlove1&show_icons=true&theme=radical)
