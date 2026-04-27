@@ -67,7 +67,7 @@ My current research interests include **planning and control for space robotic s
 </p>
 
 <p align="center">
-  <sub>Image from [https://www.vcg.com/creative/1485234348.html](https://www.vcg.com/creative/1485263136.html).</sub>
+  <sub>Image from [https://www.vcg.com/creative/1485234348.html].</sub>
 </p>
 
 
