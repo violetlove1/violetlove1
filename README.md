@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 </p>
 
 
-## 📫 Contact
+## 📫 Contact Me
 
 [![QQ Email](https://img.shields.io/badge/QQ%20Email-1973573467%40qq.com-12B7F5?style=flat-square&logo=tencentqq&logoColor=white)](mailto:1973573467@qq.com)
 [![NWPU Email](https://img.shields.io/badge/NWPU%20Email-zhang.le%40mail.nwpu.edu.cn-1E40AF?style=flat-square&logo=maildotru&logoColor=white)](mailto:zhang.le@mail.nwpu.edu.cn)
