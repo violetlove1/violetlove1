@@ -29,25 +29,8 @@ Here are some ideas to get you started:
 | 🧑‍🎓 **B.S.** | Aircraft Control and Information Engineering | Northwestern Polytechnical University, China | 2021 |
 | 🧑‍🔧 **M.S.** | Mechanical Engineering | Nanjing University of Aeronautics and Astronautics, China | 2025 |
 | 🧑‍🚀 **Ph.D.** | Control Science and Engineering | Northwestern Polytechnical University, China | 2025 - Present |
-
-
-
 ---
-<p align="center">
-  <img src="SR.jpg" alt="Space robotics illustration" width="85%">
-</p>
 
-<p align="center">
-  <sub>Image from [https://www.vcg.com/creative/1485263136.html].</sub>
-</p>
-
-
-## 📫 Contact
-
-[![QQ Email](https://img.shields.io/badge/QQ%20Email-1973573467%40qq.com-12B7F5?style=flat-square&logo=tencentqq&logoColor=white)](mailto:1973573467@qq.com)
-[![NWPU Email](https://img.shields.io/badge/NWPU%20Email-zhang.le%40mail.nwpu.edu.cn-1E40AF?style=flat-square&logo=maildotru&logoColor=white)](mailto:zhang.le@mail.nwpu.edu.cn)
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0004--0383--6134-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0004-0383-6134)
-[![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/186805698)
 
 
 ## 🔬 Research Interests
@@ -72,7 +55,21 @@ Here are some ideas to get you started:
 ![Isaac Sim](https://img.shields.io/badge/Isaac%20Sim-76B900?style=flat-square&logo=nvidia&logoColor=white)
 
 
+<p align="center">
+  <img src="SR.jpg" alt="Space robotics illustration" width="85%">
+</p>
 
+<p align="center">
+  <sub>Image from [https://www.vcg.com/creative/1485263136.html].</sub>
+</p>
+
+
+## 📫 Contact
+
+[![QQ Email](https://img.shields.io/badge/QQ%20Email-1973573467%40qq.com-12B7F5?style=flat-square&logo=tencentqq&logoColor=white)](mailto:1973573467@qq.com)
+[![NWPU Email](https://img.shields.io/badge/NWPU%20Email-zhang.le%40mail.nwpu.edu.cn-1E40AF?style=flat-square&logo=maildotru&logoColor=white)](mailto:zhang.le@mail.nwpu.edu.cn)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0004--0383--6134-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0004-0383-6134)
+[![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/186805698)
 
 
 
