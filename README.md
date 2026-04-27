@@ -16,9 +16,10 @@ Here are some ideas to get you started:
 -->
 # Hi there, I'm Le Zhang 👋
 
--🎓 Ph.D. Student 
--🚀 Space | Robot |  Control   
--📍 Research Center for Intelligent Robotics, NWPU, China  
+🎓 Ph.D. Student in Control Science and Engineering  
+🚀 Space Robotics 
+📍 Research Center for Intelligent Robotics, NWPU, China
+
 
 ---
 
