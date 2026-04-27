@@ -43,7 +43,7 @@ My current research interests include **planning and control for space robotic s
 ## 🔬 Research Interests
 
 ![Space Robotics](https://img.shields.io/badge/Space%20Robotics-0B3D91?style=flat-square&logo=spacex&logoColor=white)
-![Intelligent Robot](https://img.shields.io/badge/Intelligent%20Robot-7C3AED?style=flat-square&logo=openai&logoColor=white)
+![Intelligent Robot](https://img.shields.io/badge/Intelligent%20Robot-7C3AED?style=flat-square&logo=tensorflow&logoColor=white)
 ![Motion Planning](https://img.shields.io/badge/Motion%20Planning-2563EB?style=flat-square&logo=openstreetmap&logoColor=white)
 ![Control Systems](https://img.shields.io/badge/Control%20Systems-16A34A?style=flat-square&logo=proteus&logoColor=white)
 
