@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 # Hi there, I'm Le Zhang 👋
 
 - 🎓 **Ph.D. Student** in Control Science and Engineering
-- 🚀 **Research:** Space Robotics · Learning · Motion Planning · Control
+- 🚀 **Research:** Space Robotics · Learning · Motion Planning and Control
 - 📍 **Affiliation:** Research Center for Intelligent Robotics, NWPU, China
 ---
 
