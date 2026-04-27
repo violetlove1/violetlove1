@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 -->
 # Hi there, I'm Le Zhang 👋
 
--🎓 Ph.D. Student in NWPU 
+-🎓 Ph.D. Student 
 -🚀 Space | Robot |  Control   
--📍 Northwestern Polytechnical University, China  
+-📍 Research Center for Intelligent Robotics, NWPU, China  
 
 ---
 
-## 🎓 Education
+## 🌱 Education
 
 | Degree | Major | University | Period |
 |---|---|---|---|
