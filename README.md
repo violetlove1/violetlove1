@@ -36,8 +36,8 @@ Here are some ideas to get you started:
 ## 🔬 Research Interests
 
 ![Space Robotics](https://img.shields.io/badge/Space%20Robotics-0B3D91?style=flat-square&logo=spacex&logoColor=white)
-![Dynamics](https://img.shields.io/badge/Dynamics-DC2626?style=flat-square&logo=wolfram&logoColor=white)
 ![Intelligent Robot](https://img.shields.io/badge/Intelligent%20Robot-7C3AED?style=flat-square&logo=tensorflow&logoColor=white)
+![Robot Dynamics](https://img.shields.io/badge/Robot%20Dynamics-DC2626?style=flat-square&logo=wolfram&logoColor=white)
 ![Motion Planning](https://img.shields.io/badge/Motion%20Planning-2563EB?style=flat-square&logo=openstreetmap&logoColor=white)
 ![OptimaL Control](https://img.shields.io/badge/Optimal%20Control-16A34A?style=flat-square&logo=proteus&logoColor=white)
 
