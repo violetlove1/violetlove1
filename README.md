@@ -69,7 +69,7 @@ My current research interests include **planning and control for space robotic s
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-DA291C?style=flat-square&logo=dassaultsystemes&logoColor=white)
 ![URDF](https://img.shields.io/badge/URDF-64748B?style=flat-square&logo=xml&logoColor=white)
-![MJCF](https://img.shields.io/badge/MJCF-7C3AED?style=flat-square)
+![MJCF](https://img.shields.io/badge/MJCF-MuJoCo%20XML-7C3AED?style=flat-square&logo=xml&logoColor=white)
 ![Isaac Sim](https://img.shields.io/badge/Isaac%20Sim-76B900?style=flat-square&logo=nvidia&logoColor=white)
 
 
