@@ -43,3 +43,5 @@ My current research interests include **planning and control for space robotic s
 ![Robotics](https://img.shields.io/badge/Robotics-EA580C?style=flat-square)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
