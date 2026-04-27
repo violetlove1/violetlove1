@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-DA291C?style=flat-square&logo=dassaultsystemes&logoColor=white)
 ![URDF](https://img.shields.io/badge/URDF-64748B?style=flat-square&logo=xml&logoColor=white)
-![MJCF](https://img.shields.io/badge/MJCF-MuJoCo%20XML-7C3AED?style=flat-square&logo=xml&logoColor=white)
+![MJCF](https://img.shields.io/badge/MJCF%20XML-7C3AED?style=flat-square&logo=xml&logoColor=white)
 
 
 
