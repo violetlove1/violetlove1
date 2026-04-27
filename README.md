@@ -42,17 +42,9 @@ My current research interests include **planning and control for space robotic s
 ## 🔬 Research Interests
 
 ![Space Robotics](https://img.shields.io/badge/Space%20Robotics-0B3D91?style=flat-square&logo=spacex&logoColor=white)
-![Motion Planning](https://img.shields.io/badge/Motion%20Planning-2563EB?style=flat-square)
-![Control Systems](https://img.shields.io/badge/Control%20Systems-16A34A?style=flat-square)
-![Robotics](https://img.shields.io/badge/Robotics-EA580C?style=flat-square)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-![Space Robotics](https://img.shields.io/badge/Space%20Robotics-0B3D91?style=flat-square&logo=spacex&logoColor=white)
 ![Motion Planning](https://img.shields.io/badge/Motion%20Planning-2563EB?style=flat-square&logo=openstreetmap&logoColor=white)
 ![Control Systems](https://img.shields.io/badge/Control%20Systems-16A34A?style=flat-square&logo=googlescholar&logoColor=white)
-![Robotics](https://img.shields.io/badge/Robotics-EA580C?style=flat-square&logo=ros&logoColor=white)
+![Robotics2](https://img.shields.io/badge/Robotics-EA580C?style=flat-square&logo=ros&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
