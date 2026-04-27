@@ -43,13 +43,12 @@ My current research interests include **planning and control for space robotic s
 </p>
 
 
-## 📫 Contact Me
+## 📫 Contact
 
-- 📧 Email: 1973573467@qq.com
-- 🎓 Academic Email: zhang.le@mail.nwpu.edu.cn
-- [![ORCID](https://img.shields.io/badge/ORCID-0009--0004--0383--6134-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0004-0383-6134)
-- [![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/186805698)
-
+[![QQ Email](https://img.shields.io/badge/QQ%20Email-1973573467%40qq.com-12B7F5?style=flat-square&logo=tencentqq&logoColor=white)](mailto:1973573467@qq.com)
+[![NWPU Email](https://img.shields.io/badge/NWPU%20Email-zhang.le%40mail.nwpu.edu.cn-1E40AF?style=flat-square&logo=maildotru&logoColor=white)](mailto:zhang.le@mail.nwpu.edu.cn)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0004--0383--6134-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0004-0383-6134)
+[![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/186805698)
 
 
 ## 🔬 Research Interests
