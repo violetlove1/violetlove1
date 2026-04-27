@@ -24,11 +24,11 @@ Here are some ideas to get you started:
 
 ## 🎓 Education
 
-| Degree | Major | University | Location | Time |
-|-----|---|---|---|---|
-| 🧑‍🎓 B.S. | Aircraft Control and Information Engineering | Northwestern Polytechnical University | Xi'an, China | 2021 |
-| 🧑‍🔬 M.S. | Mechanical Engineering | Nanjing University of Aeronautics and Astronautics | Nanjing, China | 2025 |
-| 🧑‍🚀 Ph.D. | Control Science and Engineering | Northwestern Polytechnical University | Xi'an, China | 2025 - Present |
+| Degree | Major | University | Period |
+|---|---|---|---|
+| 🧑‍🎓 **B.S.** | Aircraft Control and Information Engineering | Northwestern Polytechnical University, China | 2021 |
+| 🧑‍🔧 **M.S.** | Mechanical Engineering | Nanjing University of Aeronautics and Astronautics, China | 2025 |
+| 🧑‍🚀 **Ph.D.** | Control Science and Engineering | Northwestern Polytechnical University, China | 2025 - Present |
 
 
 
