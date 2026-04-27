@@ -22,14 +22,14 @@ Here are some ideas to get you started:
 
 ---
 
-## 👨‍💻 About Me
+## 🎓 Education
 
-|  |  |
-|---|---|
-| 🎓 **B.S.** | Aircraft Control and Information Engineering, **Northwestern Polytechnical University**, China, 2021 |
-| 🛠️ **M.S.** | Mechanical Engineering, **Nanjing University of Aeronautics and Astronautics**, China, 2025 |
-| 🚀 **Ph.D.** | Currently pursuing the Ph.D. degree with the **School of Astronautics**, **Northwestern Polytechnical University**, China |
-| 🔬 **Research** | Planning and control for **space robotic systems** |
+| Degree | Major | University | Location | Time |
+|---|---|---|---|---|
+| 🧑‍🎓 B.S. | Aircraft Control and Information Engineering | Northwestern Polytechnical University | Xi'an, China | 2021 |
+| 🧑‍🔬 M.S. | Mechanical Engineering | Nanjing University of Aeronautics and Astronautics | Nanjing, China | 2025 |
+| 🧑‍🚀 Ph.D. | Astronautics | Northwestern Polytechnical University | Xi'an, China | 2025 - Present |
+
 
 
 ---
