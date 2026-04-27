@@ -24,14 +24,13 @@ Here are some ideas to get you started:
 
 ## 👨‍💻 About Me
 
-I received the B.S. degree in **Aircraft Control and Information Engineering** from  
-**Northwestern Polytechnical University**, China, in 2021, and the M.S. degree in  
-**Mechanical Engineering** from **Nanjing University of Aeronautics and Astronautics**, China, in 2025.
+|  |  |
+|---|---|
+| 🎓 **B.S.** | Aircraft Control and Information Engineering, **Northwestern Polytechnical University**, China, 2021 |
+| 🛠️ **M.S.** | Mechanical Engineering, **Nanjing University of Aeronautics and Astronautics**, China, 2025 |
+| 🚀 **Ph.D.** | Currently pursuing the Ph.D. degree with the **School of Astronautics**, **Northwestern Polytechnical University**, China |
+| 🔬 **Research** | Planning and control for **space robotic systems** |
 
-I am currently pursuing the Ph.D. degree with the **School of Astronautics** at  
-**Northwestern Polytechnical University**, China.
-
-My current research interests include **planning and control for space robotic systems**.
 
 ---
 <p align="center">
