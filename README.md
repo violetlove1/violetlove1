@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 # Hi there, I'm Le Zhang 👋
 
 🎓 Ph.D. Student in Astronautics  
-🚀 Space Robotics | Motion Planning | Control Systems  
+🚀 Space Robotics | Intelligent Robot | Motion Planning | Control Systems  
 📍 Northwestern Polytechnical University, China  
 
 ---
@@ -63,11 +63,11 @@ My current research interests include **planning and control for space robotic s
 
 
 <p align="center">
-  <img src="space_robotics.jpg" alt="Space robotics illustration" width="85%">
+  <img src="SR.jpg" alt="Space robotics illustration" width="85%">
 </p>
 
 <p align="center">
-  <sub>Image from https://www.vcg.com/creative/1485234348.html.</sub>
+  <sub>Image from [https://www.vcg.com/creative/1485234348.html](https://www.vcg.com/creative/1485263136.html).</sub>
 </p>
 
 
