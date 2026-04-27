@@ -60,7 +60,7 @@ My current research interests include **planning and control for space robotic s
 
 
 <p align="center">
-  <img src="assets/space_robotics.png" alt="Space robotics illustration" width="85%">
+  <img src="space_robotics.png" alt="Space robotics illustration" width="85%">
 </p>
 
 <p align="center">
